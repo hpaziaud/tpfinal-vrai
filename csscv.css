@@ -1,0 +1,35 @@
+.bluebackground{
+background-color:aqua
+}
+.wht{
+    color:rgb(240, 248, 255)
+}
+.td[rowspan] {
+    vertical-align: top;
+    text-align: left;
+    }
+ .rightf{
+    position: relative;
+    left: 110px;
+    top:-952px;
+    width: 25%;
+    
+
+ }
+ .imagesize{
+  
+}
+.mybutton {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 100%;
+  }
+  
